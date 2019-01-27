@@ -1,0 +1,2 @@
+add_lunch_combo havoc_beryllium-user
+add_lunch_combo havoc_beryllium-userdebug
