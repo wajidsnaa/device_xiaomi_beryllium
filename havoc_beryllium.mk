@@ -13,7 +13,7 @@ $(call inherit-product, vendor/havoc/config/common.mk)
 PRODUCT_NAME := havoc_beryllium
 PRODUCT_DEVICE := beryllium
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Poco F1
+PRODUCT_MODEL := POCO F1
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_PROPERTY_OVERRIDES += \
