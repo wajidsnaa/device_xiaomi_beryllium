@@ -72,3 +72,6 @@ PRODUCT_COPY_FILES += \
 # PocketMode
 PRODUCT_PACKAGES += \
     XiaomiPocketMode
+
+# Build Official
+export export HAVOC_BUILD_TYPE=Official
