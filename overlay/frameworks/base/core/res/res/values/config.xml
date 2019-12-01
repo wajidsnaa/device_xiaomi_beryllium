@@ -270,4 +270,6 @@
     <!-- Whether to show vendor mismatch message. -->
     <bool name="config_show_vendor_mismatch_message">false</bool>
 
+    <!-- Whether to show HD icon in the status bar for volte -->
+    <bool name="config_display_hd_volte">true</bool>
 </resources>
