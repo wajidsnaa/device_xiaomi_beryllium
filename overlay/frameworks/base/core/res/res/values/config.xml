@@ -266,4 +266,8 @@
         <item>1</item> <!-- COLOR_MODE_BOOSTED -->
         <item>3</item> <!-- COLOR_MODE_AUTOMATIC -->
     </integer-array>
+
+    <!-- Whether to show vendor mismatch message. -->
+    <bool name="config_show_vendor_mismatch_message">false</bool>
+
 </resources>
